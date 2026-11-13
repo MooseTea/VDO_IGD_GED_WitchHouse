@@ -6,7 +6,7 @@ public class CameraClick : MonoBehaviour
 {
     void OnAttack()
     {
-        print("gewoon iets.");
+        print("True.");
         Camera cam = Camera.main;
        //ScreenPointToRay transformeerd een 2d screenspace positie naar een worldspace 3D position
        //Vertrekkende vanuit de camera zijn positie 
